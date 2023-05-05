@@ -59,7 +59,6 @@
           <td>{{ item.product_name_id }}</td>
           <td>{{ item.product_name_en }}</td>
           <td>{{ item.destination }}</td>
-          <td>{{ item.description }}</td>
           <td>{{ item.qty }}</td>
           <td>{{ item.price }}</td>
           <td>
